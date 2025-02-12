@@ -1,4 +1,4 @@
-##Overview
+**Overview**
 This project involves building a machine learning model to detect fraudulent credit card transactions. The dataset used is highly imbalanced, where fraudulent transactions constitute a small percentage of the total transactions. A Random Forest Classifier is employed to classify transactions as either valid or fraudulent based on features such as transaction amount, time, and various anonymized features. The model is evaluated using multiple metrics, including accuracy, precision, recall, F1-score, and Matthews Correlation Coefficient (MCC).
 
 Key Features
